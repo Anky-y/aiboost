@@ -22,6 +22,7 @@
   margin-right: 3rem;
   width: 100%;
 }
+
 .img_container {
   text-align: center;
   /* flex-basis: 50%; */
@@ -52,11 +53,11 @@ img[alt='team_member'] {
   height: 10rem;
 }
 
-.img_centered {
+/* .img_centered {
   grid-column-start: 1;
   grid-column-end: 3;
   justify-self: center;
-}
+} */
 
 #right_block_team {
   width: 80%;

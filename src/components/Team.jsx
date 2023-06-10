@@ -3,6 +3,7 @@ import '../css/Team.css';
 import Founder from '../images/Founder.png';
 import Creator from '../images/Creator.png';
 import Manager from '../images/Manager.png';
+import Fran from '../images/Fran.png';
 
 import Button from './Button';
 const Team = () => {
@@ -15,6 +16,11 @@ const Team = () => {
               <img src={Founder} alt="team_member" />
               <h3 className="img_header">Ali Farhart</h3>
               <p className="img_title">FOUNDER</p>
+            </div>
+            <div className="img_container img_centered">
+              <img src={Fran} alt="team_member" />
+              <h3 className="img_header">Fran Forti</h3>
+              <p className="img_title">Co Founder</p>
             </div>
             <div className="img_container">
               <img src={Creator} alt="team_member" />
