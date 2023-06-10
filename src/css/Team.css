@@ -91,13 +91,16 @@ img[alt='team_member'] {
   }
 
   #left_block_team {
-    max-width: 90%;
-    text-align: center;
-    align-items: center;
-    margin-top: 5rem;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
   }
 
   #right_block_team {
     text-align: center;
+  }
+  .img_centered {
+    grid-column-start: unset;
+    grid-column-end: unset;
+    justify-self: unset;
   }
 }
