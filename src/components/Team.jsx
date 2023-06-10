@@ -3,6 +3,11 @@ import iman from '../images/Iman-Gadzhi.webp';
 import ciaran from '../images/ciaran.webp';
 import dany from '../images/dany.webp';
 import luis from '../images/luis.webp';
+
+import Founder from '../images/Founder.png';
+import Creator from '../images/Creator.png';
+import Manager from '../images/Manager.png';
+
 import Button from './Button';
 const Team = () => {
   return (
@@ -11,24 +16,19 @@ const Team = () => {
         <div id="team_container">
           <div id="left_block_team">
             <div className="img_container">
-              <img src={iman} alt="team_member" />
-              <h3 className="img_header">Iman Gadzhi</h3>
+              <img src={Founder} alt="team_member" />
+              <h3 className="img_header">Ali Farhart</h3>
               <p className="img_title">FOUNDER</p>
             </div>
             <div className="img_container">
-              <img src={ciaran} alt="team_member" />
-              <h3 className="img_header">Ciaran Anderson</h3>
-              <p className="img_title">COPYWRITER</p>
+              <img src={Creator} alt="team_member" />
+              <h3 className="img_header">Steven H.</h3>
+              <p className="img_title">Content Creator</p>
             </div>
-            <div className="img_container">
-              <img src={dany} alt="team_member" />
-              <h3 className="img_header">Dany Benavides</h3>
-              <p className="img_title">CHIEF MARKETING OFFICER</p>
-            </div>
-            <div className="img_container">
-              <img src={luis} alt="team_member" />
-              <h3 className="img_header">Luis Berger</h3>
-              <p className="img_title">PERFORMANCE MARKETER</p>
+            <div className="img_container img_centered">
+              <img src={Manager} alt="team_member" />
+              <h3 className="img_header">Md Foysal</h3>
+              <p className="img_title">Ads Manager</p>
             </div>
           </div>
           <div id="right_block_team">
