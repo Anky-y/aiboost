@@ -1,8 +1,4 @@
 import '../css/Team.css';
-import iman from '../images/Iman-Gadzhi.webp';
-import ciaran from '../images/ciaran.webp';
-import dany from '../images/dany.webp';
-import luis from '../images/luis.webp';
 
 import Founder from '../images/Founder.png';
 import Creator from '../images/Creator.png';
