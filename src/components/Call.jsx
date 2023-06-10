@@ -6,7 +6,7 @@ const Call = () => {
   return (
     <section id="call_section">
       <div id="call_container">
-        <div id="left_block">
+        <div id="left_block_call">
           <Calendly />
           <div id="list2">
             <p className="title">THIS AUDIT CALL IS PERFECT FOR:</p>
@@ -39,7 +39,7 @@ const Call = () => {
             </ul>
           </div>
         </div>
-        <div id="right_block">
+        <div id="right_block_call">
           <img src={dany} alt="team_member" />
           <p className="title">SCHEDULE YOUR CALL WITH DANY</p>
           <h2 id="call_heading">Free 15-Minute Demo Call</h2>

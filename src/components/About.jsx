@@ -33,7 +33,7 @@ const About = () => {
           <p className="phil_text">Here at IAG Media, we've worked with the best in the industry to produce millions of dollars in return on ad spend. We do away with the the inefficiencies & formalities that plague most agencies.</p>{' '}
           <p className="phil_text">Our client case studies have become myth, our waiting list is longer than your complaints with your current agency and we look for a very specific kind of client. </p>
           <p id="call_text">Maybe that’s you: it would be our honour to find out. Schedule your FREE discovery call below. </p>
-          <Button sectionId="call_section" />
+          <Button sectionId="left_block_call" />
         </div>
       </div>
     </section>

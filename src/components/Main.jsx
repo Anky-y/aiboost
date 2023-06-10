@@ -12,7 +12,7 @@ const Main = () => {
             <p id="line_two">We Help E-commerce & Info Product Businesses Produce Spine-Chilling ROI Via Paid Advertising</p>
             <p id="line_three">Stop wasting time and money on faulty and ineffective ad campaigns.</p>
             <p id="line_four">It's time to make your ad-budget count, scale your business and blow up your sales.</p>
-            <Button sectionId="call_section" />
+            <Button sectionId="left_block_call" />
           </div>
           <div id="mlLogo_container">
             <img src={mlLogo} alt="" id="mlLogo" />

@@ -37,7 +37,7 @@ const Team = () => {
             <p className="right_text">
               With our elusive company culture, calibre of clientele & Iman’s social media in the hundreds of thousands - IAG Media has our pick of the litter all across the world when it comes to who we’re able to hire. The team you see in front of you is a culmination of that.
             </p>
-            <Button bgColor="#fc3792" hoverShadowColor="rgba(253, 97, 168, 0.3)" sectionId="call_section" />
+            <Button bgColor="#fc3792" hoverShadowColor="rgba(253, 97, 168, 0.3)" sectionId="left_block_call" />
           </div>
         </div>
       </div>

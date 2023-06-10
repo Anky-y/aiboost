@@ -12,7 +12,7 @@ const Offer = () => {
             <p className="offer_content">Ads, Just Ads. </p>
             <p className="offer_content">We do one thing - we just do it with a monastic focus and better than anyone else. If you want an agency that offers a full service solution of everything that won’t move the needle forward, we’re not for you. </p>
             <p className="offer_content">If you want an agency where with two clicks, you can get a clear breakdown of how much was spent, how much was made & what your net profit was - we’re for you. </p>
-            <Button sectionId="call_section" />
+            <Button sectionId="left_block_call" />
           </div>
           <div id="right_block_offer">
             <p id="notService_header">MASTERY DEMANDS FOCUS SO....</p>
