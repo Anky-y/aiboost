@@ -1,0 +1,42 @@
+#call_btn {
+  color: #fff;
+  align-self: center;
+  background-color: #01a2d4;
+  border: 0;
+  border-radius: 4rem;
+  width: 40rem;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+#call_btn_heading {
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  font-weight: 700;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+#call_btn:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 6px 12px 4px rgba(1, 162, 212, 0.3);
+}
+
+#call_btn_text {
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  font-weight: 400;
+  margin-top: 0rem;
+  font-size: 1.5rem;
+}
+
+@media (max-width: 460px) {
+  #call_btn {
+    width: 30rem;
+  }
+
+  #call_btn_heading {
+    font-size: 1.7rem;
+  }
+
+  #call_btn_text {
+    font-size: 1.3rem;
+  }
+}
