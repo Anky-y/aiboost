@@ -1,6 +1,6 @@
 import '../css/Call.css';
 import Calendly from './Calendly';
-import dany from '../images/dany.webp';
+import Founder from '../images/Founder.png';
 
 const Call = () => {
   return (
@@ -41,7 +41,7 @@ const Call = () => {
           </div>
         </div>
         <div id="right_block_call">
-          <img src={dany} alt="team_member" />
+          <img src={Founder} alt="team_member" />
           <p className="title">SCHEDULE YOUR CALL WITH OUR TEAM</p>
           <h2 id="call_heading">Schedule an Audit Call to Unlock Your Business's Online Success Potential!</h2>
           <p className="call_text">During our Audit Call, you'll gain valuable insights into the next steps needed to achieve consistent and reliable results for your business through our services in Paid Advertising and Conversion Rate Optimization.</p>
