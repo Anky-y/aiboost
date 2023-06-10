@@ -29,9 +29,9 @@ const Team = () => {
           </div>
           <div id="right_block_team">
             <h2 id="right_header">Meet The A-Team</h2>
-            <p className="right_text">Founded by Iman Gadzhi who's spent the past 4 years attracting the best talent globally. </p>
             <p className="right_text">
-              With our elusive company culture, calibre of clientele & Iman’s social media in the hundreds of thousands - IAG Media has our pick of the litter all across the world when it comes to who we’re able to hire. The team you see in front of you is a culmination of that.
+              Introducing our exceptional team known for consistently achieving a 100% ROI in every endeavor. With the trust of 17 esteemed AI businesses and zero negative feedback received, we have established an impeccable reputation. Our team stays at the forefront of the AI industry, leveraging
+              cutting-edge technologies and personalized approaches to empower your organization's success.
             </p>
             <Button bgColor="#fc3792" hoverShadowColor="rgba(253, 97, 168, 0.3)" sectionId="left_block_call" />
           </div>

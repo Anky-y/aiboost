@@ -6,7 +6,8 @@ const Case = () => {
     <section>
       <div id="case_background">
         <div id="case_container">
-          <p id="case_top_text">FREE CASE STUDY: </p> <h2 id="case_top_heading">"How My Agency Is Helping 'New Breed' Info Product & Ecommerce Businesses Scale Aggressively"</h2>
+          <p id="case_top_text">FREE CASE STUDY: </p>
+          <h2 id="case_top_heading">"How My Agency Is Helping 'New Breed' Info Product & Ecommerce Businesses Scale Aggressively"</h2>
           <div id="case_bottom_container">
             <div id="left_block_case">
               <img src={gif} alt="" id="gif" />{' '}
