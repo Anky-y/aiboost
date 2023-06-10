@@ -1,3 +1,9 @@
+#case_background {
+  background: url('https://images.clickfunnels.com/a1/c8a06375354ffb82d8ab0fa724985b/background-case-study.png') no-repeat center top;
+  background-size: 100% 100%;
+  padding-top: 5rem;
+  padding-bottom: 10rem;
+}
 #case_container {
   margin-left: auto;
   margin-right: auto;
