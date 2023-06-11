@@ -9,7 +9,7 @@ const Offer = () => {
           <div id="left-block_offer">
             {/* <p id="offer_text">What we offer</p> */}
             <h2 id="offer_heading">WHAT WE OFFER</h2>
-            <p className="offer_content">Introducing our $20k Exclusive AI Tools UGC and TikTok Ads Package! Revolutionize your business with AI. Our offer combines user-generated content (UGC) and TikTok ads to boost your brand's reach, engagement, and conversions.</p>
+            <p className="offer_content">The Ultimate solution for Scaling AI Software to new heights. we achieve this by leveraging Specialised User generated content (UGC) and paid ads.</p>
             <Button sectionId="left_block_call" />
           </div>
           <div id="right_block_offer">
@@ -50,8 +50,10 @@ const Offer = () => {
                 <b className="list_items sub_item">Content Creation</b>
               </li>
               <li>
-                <b className="list_items sub_item">Socail Media Management</b>
+                <b className="list_items sub_item">Social Media Management</b>
               </li>
+              <b className="list_items ">Our client case studies have become a myth, our waititng list is longer than your complaints with your current agency hence we are looking for a very specific kind of client.</b>
+              <b className="list_items ">Here at AI Boost, we've with the best in the Industry to generate millions of dollars in revenue. We do away with the Ineptitudes that Plaque most agencies.</b>
               <b className="list_items">Dedicated Support and Guidance Unlock AI, UGC, and TikTok ads for $20k. Dominate your industry, captivate your audience, and experience exponential growth. Don't miss out! Contact us today to get started on your AI-driven success journey.</b>
             </ul>
           </div>
