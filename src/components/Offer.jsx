@@ -52,9 +52,7 @@ const Offer = () => {
               <li>
                 <b className="list_items sub_item">Social Media Management</b>
               </li>
-              <b className="list_items ">Our client case studies have become a myth, our waititng list is longer than your complaints with your current agency hence we are looking for a very specific kind of client.</b>
-              <b className="list_items ">Here at AI Boost, we've with the best in the Industry to generate millions of dollars in revenue. We do away with the Ineptitudes that Plaque most agencies.</b>
-              <b className="list_items">Dedicated Support and Guidance Unlock AI, UGC, and TikTok ads for $20k. Dominate your industry, captivate your audience, and experience exponential growth. Don't miss out! Contact us today to get started on your AI-driven success journey.</b>
+              <b className="list_items">Dominate your industry, captivate your audience, and experience exponential growth. Don't miss out! Contact us today to get started on your AI-driven success journey.</b>
             </ul>
           </div>
         </div>

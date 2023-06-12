@@ -14,7 +14,7 @@ const Team = () => {
           <div id="left_block_team">
             <div className="img_container">
               <img src={Founder} alt="team_member" />
-              <h3 className="img_header">Ali Farhart</h3>
+              <h3 className="img_header">Ali Farhat</h3>
               <p className="img_title">FOUNDER</p>
             </div>
             <div className="img_container img_centered">
