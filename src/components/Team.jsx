@@ -35,10 +35,9 @@ const Team = () => {
           </div>
           <div id="right_block_team">
             <h2 id="right_header">Meet The A-Team</h2>
-            <p className="right_text">
-              Introducing our exceptional team known for consistently achieving a 100% ROI in every endeavor. With the trust of 17 esteemed AI businesses and zero negative feedback received, we have established an impeccable reputation. Our team stays at the forefront of the AI industry, leveraging
-              cutting-edge technologies and personalized approaches to empower your organization's success.
-            </p>
+            <p className="right_text">We take pride in presenting our exceptional team renowned for consistently delivering a 100% return on investment in every undertaking.</p>
+            <p className="right_text">With the unwavering confidence bestowed upon us by 17 esteemed AI enterprises and a spotless track record devoid of any negative feedback, we have solidified an impeccable reputation within the industry.</p>
+            <p className="right_text">Our team remains at the vanguard of the AI landscape, harnessing state-of-the-art technologies and tailored methodologies to empower the resounding success of your organization.</p>
             <Button bgColor="#fc3792" hoverShadowColor="rgba(253, 97, 168, 0.3)" sectionId="left_block_call" />
           </div>
         </div>

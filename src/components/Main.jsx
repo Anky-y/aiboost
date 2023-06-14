@@ -9,9 +9,9 @@ const Main = () => {
         <div id="main_content">
           <div id="left_block_container">
             <h1 id="line_one">MODERN DAY ALCHEMY</h1>
-            <p id="line_two">We Help AI Softwares & tools Produce Spine-Chilling ROI Via Paid Advertisement and organic growth</p>
-            <p id="line_three">Stop wasting time and money on faulty and ineffective ad campaigns.</p>
-            <p id="line_four">It's time to make your ad-budget count, scale your business and blow up your sales.</p>
+            <p id="line_two">We Empower AI Software and Tools to Generate Remarkable ROI through Strategic Paid Advertising and Organic Growth Strategies.</p>
+            <p id="line_three">Optimize your resource allocation by refraining from investing in subpar and inefficient advertising campaigns.</p>
+            <p id="line_four">Now is the opportune moment to maximize the impact of your advertising budget, expand your business operations, and achieve significant sales growth.</p>
             <Button sectionId="left_block_call" />
           </div>
           <div id="mlLogo_container">

@@ -18,21 +18,17 @@ const About = () => {
                 <h2 className="stat_heading">Total Ad Spend</h2>
                 <p className="stat">$2.7M</p>
               </div>
-              <div className="stat_box">
-                <h2 className="stat_heading">OFFICES</h2>
-                <p className="stat">0</p>
-              </div>
-              <div className="stat_box">
-                <h2 className="stat_heading">SERVICES OFFER</h2> <p className="stat">1</p>
-              </div>
             </div>
           </div>
         </div>
         <div id="philosophy">
-          <h2 id="phil_heading">Our Philosophy</h2>
-          <p className="phil_text">Here at AIBoost, we've worked with the best in the industry to produce millions of dollars in return on ad spend. We do away with the the inefficiencies & formalities that plague most agencies.</p>{' '}
-          <p className="phil_text">Our client case studies have become myth, our waiting list is longer than your complaints with your current agency and we look for a very specific kind of client.</p>
-          <p id="call_text">Maybe that’s you: it would be our honour to find out. Schedule your FREE discovery call below.</p>
+          <h2 id="phil_heading">Our Core Values</h2>
+          <p className="phil_text">
+            At AIBoost, we have collaborated with industry-leading experts to generate substantial returns on ad spend, totaling millions of dollars. By eliminating the inefficiencies and cumbersome practices that commonly afflict agencies, we ensure a streamlined and effective approach to our
+            services.
+          </p>{' '}
+          <p className="phil_text">Our portfolio of client case studies has attained legendary status, and our extensive waiting list surpasses the number of grievances typically associated with existing agencies. We selectively seek out clients who align with our unique criteria.</p>
+          <p id="call_text">If you believe you may fit this profile, we would be delighted to explore the potential of our partnership. Take the first step by scheduling your complimentary discovery call using the link provided below.</p>
           <Button sectionId="left_block_call" />
         </div>
       </div>

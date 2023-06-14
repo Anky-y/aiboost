@@ -52,7 +52,7 @@ const Offer = () => {
               <li>
                 <b className="list_items sub_item">Social Media Management</b>
               </li>
-              <b className="list_items">Dominate your industry, captivate your audience, and experience exponential growth. Don't miss out! Contact us today to get started on your AI-driven success journey.</b>
+              <b className="list_items">Establish industry dominance, captivate your target audience, and embark on a trajectory of exponential growth. Seize this opportunity without delay! Reach out to us today to commence your transformative journey towards AI-driven success.</b>
             </ul>
           </div>
         </div>
